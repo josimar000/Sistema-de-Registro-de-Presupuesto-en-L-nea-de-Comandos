@@ -1,2 +1,2 @@
-# Sistema-de-Registro-de-Presupuesto-en-L-nea-de-Comandos
+# Sistema-de-Registro-de-Presupuesto-en-Linea-de-Comandos
 programacion
